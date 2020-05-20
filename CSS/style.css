@@ -1,0 +1,39 @@
+.container {
+  padding: 0;
+  position: relative;
+  text-align: center;
+}
+
+.container h1{
+
+        font-size: 55px;
+        margin-top: 100px;
+        font-family: 'Megrim', cursive;
+        font-weight: bolder;
+
+}
+
+.about{
+    align: center:
+    padding: 0;
+    padding-top: 0;
+    position: relative;
+    margin-top: 30px;
+    text-align: right;
+}
+
+.about h2 {
+      font-family: 'Megrim', cursive;
+      font-weight: bolder;
+      font-size: 40px;
+      margin: 50px;
+
+}
+
+.about transbox{
+      align: center;
+      background-color: #ffffff;
+      border: 1px solid black;
+      opacity: 0,8;
+      filter: alpha(opacity=60);
+}
